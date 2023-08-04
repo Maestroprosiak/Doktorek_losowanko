@@ -1,6 +1,7 @@
 # Doktorek_losowanko
 biblioteki do zainstalowania:
 openai, tkinter
+
 sprawdz_bf(postac): Ta funkcja służy do komunikacji z OpenAI GPT-3, aby sprawdzić, czy istnieją audiodramy lub historie związane z daną postacią (taką jak doktor, towarzysz czy przeciwnik) w bazie Big Finish Productions. Generuje zapytanie na podstawie podanej postaci i wyświetla odpowiedź w okienku.
 
 uzyskaj_informacje_z_ai(postac): Funkcja wykorzystuje GPT-3, aby uzyskać informacje o danej postaci z serialu "Doktor Who". Generuje pytanie na podstawie postaci i wyświetla uzyskaną informację.
